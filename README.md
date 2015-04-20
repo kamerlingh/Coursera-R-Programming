@@ -1,1 +1,3 @@
-# datasciencecoursera
+### Code for R programming course on Coursera
+
+This repository has code for problems given in the R Programming course offered by Coursera. In Assignment 1, the programs use pollution monitoring data in .csv files to compute the mean level of pollutants, the number of complete cases, and the correlation between pollutants. Assignment 2 involved creating an object in R that represents a matrix and stores the inverse of the matrix. Assignment 3 relies on data from the Hospital Compare database, and the code provided can rank hospitals according to three health outcomes either across the US or by state.
